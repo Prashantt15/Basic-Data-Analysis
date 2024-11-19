@@ -1,2 +1,1 @@
-# numpy-basics
-# Pandas-basics
+# Basics Data Analysis
